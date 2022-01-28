@@ -15,4 +15,9 @@ var lastitem = friendsAge.pop();
 console.log(friendsAge);
 console.log(lastitem);
 
+// javascript array removefirst item from an array 
+shift();
+// jsvascript array add an element in the begaining 
+unshift();
+
 
